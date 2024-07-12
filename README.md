@@ -1,6 +1,6 @@
 # Sweet Alert Dialog
 
-SweetAlert for Android, a beautiful and clever alert dialog
+Zhua SweetAlert for Android, a beautiful and clever alert dialog
 Inspired by JavaScript [SweetAlert](https://sweetalert.js.org/guides/)
 
 ### A very big thanks to

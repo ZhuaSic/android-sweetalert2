@@ -44,7 +44,7 @@ Some screenshots of the new features:
 
 ## Preview
 
-![image](https://github.com/taimoorsultani/android-sweetalert2/raw/main/preview.gif)
+![image](https://github.com/ZhuaSic/android-sweetalert2/raw/main/preview.gif)
 
 ## Setup
 
@@ -59,7 +59,7 @@ The simplest way to use Sweetalert is to add the library as aar dependency to yo
         </repository>
     </repositories>
     <dependency>
-        <groupId>com.github.taimoorsultani</groupId>
+        <groupId>com.github.ZhuaSic:android-sweetalert2</groupId>
         <artifactId>android-sweetalert2</artifactId>
         <version>2.0.2</version>
     </dependency>
@@ -73,7 +73,7 @@ The simplest way to use Sweetalert is to add the library as aar dependency to yo
     }
 
     dependencies {
-        implementation 'com.github.taimoorsultani:android-sweetalert2:2.0.2'
+        implementation 'com.github.ZhuaSic:android-sweetalert2:2.0.2'
     }
 
 ## Usage
@@ -86,7 +86,7 @@ Show material progress
     pDialog.setCancelable(false);
     pDialog.show();
 
-![image](https://github.com/taimoorsultani/android-sweetalert2/raw/main/play_progress.gif)
+![image](https://github.com/ZhuaSic/android-sweetalert2/raw/main/play_progress.gif)
 
 You can customize progress bar dynamically with materialish-progress methods via **Sweetalert.getProgressHelper()**:
 

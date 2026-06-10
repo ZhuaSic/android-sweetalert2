@@ -49,7 +49,7 @@ afterEvaluate {
 
                 groupId = "com.github.ZhuaSic"
                 artifactId = "android-sweetalert2"
-                version = "2.0.3"
+                version = "2.0.5"
             }
         }
     }
